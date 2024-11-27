@@ -9,7 +9,9 @@
 
 
 
-const read=require("readline-sync")
-console.log("yessss");
-let name=read.question("hello how are you")
-console.log("thats okay",`${name}`);
+// const read=require("readline-sync")
+// console.log("yessss");
+// let name=read.question("hello how are you")
+// console.log("thats okay",`${name}`);
+
+
